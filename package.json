@@ -14,6 +14,8 @@
     "fantasticon": "^4.1.0",
     "potrace": "^2.1.8",
     "puppeteer": "^25.0.2",
+    "svg2ttf": "^6.1.0",
+    "svgicons2svgfont": "^16.0.0",
     "svgtofont": "^6.5.2"
   }
 }
