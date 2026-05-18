@@ -1,6 +1,6 @@
-# Zoofi Blueprint Font
+# LuissFuenteUno Blueprint Font
 
-¡Bienvenido al repositorio oficial de la tipografía **ZoofiBlueprint**!
+¡Bienvenido al repositorio oficial de la tipografía **LuissFuenteUnoBlueprint**!
 
 Esta es una fuente tipográfica personalizada originada a partir de diseños de diagramas vectoriales intrincados y estilizados, convertida en una fuente de texto completamente funcional y utilizable en editores como Microsoft Word, Adobe Illustrator y diseño web.
 
