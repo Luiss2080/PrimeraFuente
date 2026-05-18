@@ -10,7 +10,7 @@ Para poder utilizar la fuente **LuissFuenteUnoBlueprint**, el primer paso es des
 
 ## Si solo quieres la fuente directamente
 1. Ve a la carpeta `fonts/` en este repositorio.
-2. Haz clic sobre el archivo **`LuissFuenteUnoBlueprint_Final.ttf`**.
+2. Haz clic sobre el archivo **`LuissFuenteUno.ttf`**.
 3. Haz clic en el botón de descarga (un ícono de una flecha apuntando hacia abajo, o el botón `Download raw file` / `Descargar archivo sin formato`).
 4. Guarda el archivo `.ttf` en tu computadora. *(Si hiciste esto, puedes saltarte el Paso 2 e ir directo al Paso 3).*
 
