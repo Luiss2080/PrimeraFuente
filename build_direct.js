@@ -6,7 +6,7 @@ const path = require('path');
 console.log('Iniciando compilación directa...');
 
 const fontStream = new SVGIcons2SVGFontStream({
-  fontName: 'LuissFuenteUnoBlueprint_Final',
+  fontName: 'LuissFuenteUno',
   fontHeight: 2000,
   normalize: true
 });
@@ -20,7 +20,7 @@ fontStream.on('end', () => {
   console.log('SVGs combinados. Generando TTF...');
   const ttf = svg2ttf(svgContent, {});
   // Save as V3 to avoid Windows file lock if user has Font Viewer open
-  const destPath = path.join(__dirname, 'fonts', 'LuissFuenteUnoBlueprint_Final_V3.ttf');
+  const destPath = path.join(__dirname, 'fonts', 'LuissFuenteUno_V3.ttf');
   fs.writeFileSync(destPath, Buffer.from(ttf.buffer));
   console.log('¡Fuente TTF generada en ' + destPath + '!');
 });

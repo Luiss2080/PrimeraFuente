@@ -9,7 +9,7 @@ console.log('Generando fuente con svgtofont...');
 svgtofont({
   src: TRACED_DIR,
   dest: OUTPUT_DIR,
-  fontName: 'LuissFuenteUnoBlueprint',
+  fontName: 'LuissFuenteUno',
   css: true,
   outSVGReact: false,
   outSVGPath: true,
