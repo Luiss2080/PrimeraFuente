@@ -10,7 +10,7 @@ Para poder utilizar la fuente **ZoofiBlueprint**, el primer paso es descargar lo
 
 ## Si solo quieres la fuente directamente
 1. Ve a la carpeta `fonts/` en este repositorio.
-2. Haz clic sobre el archivo **`ZoofiBlueprint.ttf`**.
+2. Haz clic sobre el archivo **`ZoofiBlueprint_Final.ttf`**.
 3. Haz clic en el botón de descarga (un ícono de una flecha apuntando hacia abajo, o el botón `Download raw file` / `Descargar archivo sin formato`).
 4. Guarda el archivo `.ttf` en tu computadora. *(Si hiciste esto, puedes saltarte el Paso 2 e ir directo al Paso 3).*
 

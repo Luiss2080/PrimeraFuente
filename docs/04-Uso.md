@@ -5,7 +5,7 @@
 ## Pasos para usarla en Word
 1. Abre **Microsoft Word** y crea un Documento en blanco (o abre uno existente).
 2. En la pestaña de **Inicio** (Home), ubica la caja de selección de tipo de letra (donde suele decir Calibri o Arial).
-3. Haz clic en la flecha para desplegar la lista y busca **`ZoofiBlueprint`**. *(Puedes escribir "Zoofi" directamente en la caja para encontrarla más rápido).*
+3. Haz clic en la flecha para desplegar la lista y busca **`ZoofiBlueprint_Final`**. *(Puedes escribir "Zoofi" directamente en la caja para encontrarla más rápido).*
 4. Selecciona la fuente y comienza a escribir en mayúsculas (letras A-Z) para ver los increíbles diseños personalizados.
 
 ### Consejos para un mejor resultado
